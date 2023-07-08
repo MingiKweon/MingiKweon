@@ -1,4 +1,10 @@
-### Hi there 👋
+# MingiKweon
+**Kookmin** Univ. [Department of Computer Science](https://cs.kookmin.ac.kr) / [KOSS](https://github.com/kmu-koss) (**K**ookmin_Univ. **O**penSource **S**oftware **S**ociety)
+
+[![Email](https://img.shields.io/badge/email-kmingi159@kookmin.ac.kr-15a3fa?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/MingiKweon)
+<br>
+[![Instagram](https://img.shields.io/badge/instagram-mingi4906-15a3fa?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mingi4906/)
+
 
 <!--
 **MingiKweon/MingiKweon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
