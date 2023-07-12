@@ -1,22 +1,15 @@
-# MingiKweon
+# Mingi Kweon
 **Kookmin** Univ. [Department of Computer Science](https://cs.kookmin.ac.kr) / [KOSS](https://github.com/kmu-koss) (**K**ookmin_Univ. **O**penSource **S**oftware **S**ociety)
-
-[![Email](https://img.shields.io/badge/email-kmingi159@kookmin.ac.kr-15a3fa?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/MingiKweon)
 <br>
+<br>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kmingi159)](https://solved.ac/kmingi159) 
+<br>
+[![Email](https://img.shields.io/badge/email-kmingi159@kookmin.ac.kr-15a3fa?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/MingiKweon) 
 [![Instagram](https://img.shields.io/badge/instagram-mingi4906-15a3fa?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mingi4906/)
+<br>
+<br>
 
-
-<!--
-**MingiKweon/MingiKweon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MingiKweon&layout=compact) 
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MingiKweon&show_icons=true&theme=transparent)
