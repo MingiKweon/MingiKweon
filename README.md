@@ -12,4 +12,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MingiKweon&layout=compact&theme=dark) 
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MingiKweon&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MingiKweon&show_icons=true&theme=dark)
