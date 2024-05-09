@@ -1,15 +1,20 @@
 # Mingi Kweon
-**Kookmin** Univ. [Department of Computer Science](https://cs.kookmin.ac.kr) 23 / [KOSS](https://github.com/kmu-koss) (**K**ookmin_Univ. **O**penSource **S**oftware **S**ociety)
-<br>
-<br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kmingi159)](https://solved.ac/kmingi159) 
-<br>
-[![Email](https://img.shields.io/badge/email-kmingi159@kookmin.ac.kr-15a3fa?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/MingiKweon) 
-[![Instagram](https://img.shields.io/badge/instagram-mingi4906-15a3fa?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mingi4906/)
-<br>
+
+######
+학부 애기개발자입니다 재밌는 거 찾고 다닙니다 <br>
+
+## profile
+###### <span style="color:gray"> 권민기 (Phillip Kweon) </span>
+**Bugil** Academy [북일고등학교](https://www.bugil.hs.kr) : 2018.03.02 ~ 2021.02.04 <br>
+**Kookmin** Univ. [Department of Computer Science](https://cs.kookmin.ac.kr) : 2023.03.02 ~ 0000.00.00 <br>
+**KOSS** [**K**ookmin_Univ. **O**penSource **S**oftware **S**ociety](https://github.com/kmu-koss) : 2023.03.16 ~ 2024.02.03 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MingiKweon&layout=compact&theme=dark) 
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MingiKweon&show_icons=true&theme=dark)
+## study
+* experiences <br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,cpp,py,flutter)](https://skillicons.dev)
+* recently <br>
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,discord)](https://skillicons.dev)
+
+## etc
+Spelunky2 7-99 Animus Minor <!--꼭 경력란에 넣겠다고 했음-->
