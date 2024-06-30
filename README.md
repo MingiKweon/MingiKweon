@@ -12,9 +12,9 @@
 
 ## study
 * experiences <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,cpp,py,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,cpp,py,flutter,discord)](https://skillicons.dev)
 * recently <br>
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,js,ejs)](https://skillicons.dev)
 
 ## etc
 Spelunky2 7-99 Animus Minor <!--꼭 경력란에 넣겠다고 했음-->
