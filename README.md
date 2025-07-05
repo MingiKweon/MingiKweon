@@ -17,4 +17,5 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,js,ejs)](https://skillicons.dev)
 
 ## etc
-Spelunky2 7-99 Animus Minor <!--꼭 경력란에 넣겠다고 했음-->
+Spelunky2 7-99 Animus Minor, Felix Major <!--꼭 경력란에 넣겠다고 했음-->
+Eagle Ride Classic 21:39.4 Rank 1
